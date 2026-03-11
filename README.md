@@ -96,7 +96,7 @@ Python • Linux • Bash
 # 📫 Contact
 
 - Email: bassitdeveloper@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/zy-nox
 
 ---
 
